@@ -1,0 +1,5 @@
+[DB]
+USER=postgres
+PASS=top_secret
+DOMAIN=localhost
+DB_NAME=example

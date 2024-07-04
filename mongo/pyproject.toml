@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "homework-06"
+version = "0.1.0"
+description = "NoSQL Databases (MongoDB)"
+authors = ["Matajur <126118653+Matajur@users.noreply.github.com>"]
+license = "Apache License 2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pymongo = "^4.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

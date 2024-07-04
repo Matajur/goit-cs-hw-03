@@ -1,0 +1,7 @@
+[DB]
+USER=mongo
+PASS=top_secret
+DOMAIN=localhost
+PORT=27017
+DB_NAME=example
+COLLECT=my_collection
